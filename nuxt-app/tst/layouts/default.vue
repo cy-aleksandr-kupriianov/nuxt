@@ -3,5 +3,3 @@
     <slot />
   </ThePage>
 </template>
-<script setup lang="ts">
-</script>
